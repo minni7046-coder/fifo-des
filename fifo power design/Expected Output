@@ -1,0 +1,9 @@
+WRITE | Data=10
+WRITE | Data=20
+WRITE | Data=30
+WRITE | Data=40
+
+READ  | Data=10
+READ  | Data=20
+READ  | Data=30
+READ  | Data=40
